@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../imagenes/biblioteca_wallpeper_login.png) ;
+    background-size: 100% 100%; 
+  background-attachment: fixed;
+  
+    
+}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    background: #485563;  
+    background: -webkit-linear-gradient(to right, #29323c, #485563);  
+    background: linear-gradient(to right, #29323c, #485563); 
+    padding: 100px;
+    border-radius: 5px;
+    border: wheat;
+    height: 100px;
+    color: rgba(19, 17, 17, 0.891);
+
+    
+    
+}
+
+button{
+    margin: 0;
+    border: black solid;
+   
+
+}
+
+label{
+    font-family: fantasy;
+
+    
+}
+
+input{
+    border-radius: 5px;
+    padding: 3px;
+    
+    
+}
